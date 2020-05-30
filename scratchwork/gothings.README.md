@@ -20,19 +20,25 @@ Anyway, the original work included may be used according to the permissible MIT 
 
 ----
 
-[What you may find here](./short.README.english.md#what-you-may-find-here)  
+[What you may find here](./#what-you-may-find-here)  
 [Basics](./short.README.english.md#basics)  
 [Chart & discussion](./short.README.english.md#charts--discussion)  
 [The result](./short.README.english.md#the-result)  
 [Expand](./short.README.english.md#expand)  
   
-----
-   
-
-
 <br />  
-
 ----
+
+What you may find here
+----
+
+Scenario
+* Create and manage application in docker containers
+* a way to manage a number of things in private LAN
+* a way to manage  a number of droplet in your cloud
+* manage the connection between LAN and the cloud
+
+
 <br />
   
 # DISCLAIMER
