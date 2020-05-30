@@ -21,6 +21,8 @@ Anyway, the original work included may be used according to the permissible MIT 
 ----
 
 [What you may find here](./#what-you-may-find-here)  
+[What you may find here](.#what-you-may-find-here)  
+[What you may find here](./?#what-you-may-find-here)  
 [Basics](./short.README.english.md#basics)  
 [Chart & discussion](./short.README.english.md#charts--discussion)  
 [The result](./short.README.english.md#the-result)  
