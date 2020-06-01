@@ -21,10 +21,10 @@ Ad ogni modo, il lavoro originale qui incluso può essere utilizzato secondo la 
 ----
 
 [Cosa puoi trovare qui](./gothings.README.italiano.md#cosa-puoi-trovare-qui)  
-[L'Inizio](./gothings.README.italiano.md#l-inizio)  
+[L'Inizio](./gothings.README.italiano.md#linizio)  
 [INDICE](./gothings.README.italiano.md#indice)  
 [Stato di avanzamento](./gothings.README.italiano.md#stato-di-avanzamento)  
-[AVVERTENZA](./gothings.README.italiano.md#disclaimer)  
+[AVVERTENZA](./gothings.README.italiano.md#avvertenza)  
   
 <br />  
 ----
@@ -61,7 +61,7 @@ Vediamo cosa succede nel mondo reale:
 * e' semplice: compro Amazon Alexa o Google Home o Apple Homekit
 * scelgo sul mercato un dispositivo che svolga la funzione che mi serve
 * il costruttore del dispositivo ha realizzato uno *skill* alexa (o simile)
-* alexa (o il concorrente) mi fornisce il risultato
+* alexa (o ilhttps://github.com/fpirri/gothings/blob/master/scratchwork/gothings.README.italiano.md#linizio concorrente) mi fornisce il risultato
   
 FUNZIONA?
 - humm... SI, quasi
@@ -198,26 +198,30 @@ La parte BASE contiene, al minimo:
 - un server di eventi che raccoglie gli eventi locali, sia interni all'host che
   provenienti dalle varie cose interne  
 <br />  
+
 ----
 
 INDICE
 ----
+
  (attualmente un server nodejs con interfaccia UDP)
 - si prevede anche un secondo server nodejs per la gestione della sicurezza, il
   pretotipo e' basato su VUE
 
-
-
-
-
-------------------------
 la distanza tra tutto cio' che ci vuole per fare la cosa semplice e quanto offre il sistema base e' troppo grande
 
+<br />  
 
------------------------
-TEST di verifica per la buona strada:
+----
 
-Si riesce ad usare una libreria raspberry per avere un valore 'utente' ed a mostrarlo su una pagina web SENZA conoscere nessun comando docker e SENZA dover installare un proprio server web
+Stato Di Avanzamento
+----
+
+
+----
+TEST per vedere se siamo sulla buona strada:
+
+Verificare che si riesca ad usare una libreria raspberry per avere un valore *utente* ed a mostrarlo su una pagina web SENZA conoscere nessun comando docker e SENZA dover installare un proprio server web
 
 ----
 **TO BE CONTINUED**
